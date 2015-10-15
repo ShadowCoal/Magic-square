@@ -67,7 +67,6 @@ public class RandomMagicSquareBuilder {
 		int high = 4;
 		int low = 1;
 		int random = 0;
-		int x = 0;
 		if (a1 == 2 || a1 == 8)
 		{
 			low = 2;
