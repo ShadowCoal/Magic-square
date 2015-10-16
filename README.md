@@ -1,4 +1,4 @@
-# Magic-square
+
 #basic idea
 A magic square is where you add any row, collom, and main diagonal to get the same number. Most of the time it is a three by three and using numbers 1-9 being use at least once. 
 #Files
